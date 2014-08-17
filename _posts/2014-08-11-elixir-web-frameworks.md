@@ -6,10 +6,10 @@ date: 2014-08-11 20:48:31
 
 Elixir社区现有和几个web开发框架:
 
-* https://github.com/dynamo/dynamo
-* https://github.com/phoenixframework/phoenix
-* https://github.com/sugar-framework/sugar
-* https://github.com/elixir-web/weber
+* [dynamo](https://github.com/dynamo/dynamo)
+* [phoenix](https://github.com/phoenixframework/phoenix)
+* [sugar](https://github.com/sugar-framework/sugar)
+* [weber](https://github.com/elixir-web/weber)
 
 另外，还有[plug](https://github.com/elixir-lang/plug) 
 plug不是一个web框架，是一个类似Ruby中Rack的基础库，为中间件提供统一的api
@@ -33,6 +33,7 @@ dynamo 是Elixir作者开发的，不过作者说项目已经进入维护状态�
 phoenix 是Elixir社区关注度比较高的web框架，基于plug。
 
 特点: 
+
 * DSL Routing, 支持resource
 * 支持websocket
 * code reload
